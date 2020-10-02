@@ -1,0 +1,4 @@
+# Ignore the node_modules directory
+client/node_modules/
+posts/node_modules/
+comments/node_modules/
